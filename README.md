@@ -11,7 +11,6 @@ The service is defined to use a load balancer, which is simplest to use as there
 Currently being used for testing ArgoCD running on an AWS EKS cluster; does what I want it to.
 
 Todo:
-- Check namespace management; hardcoded to `webapps` in the manifest file, but ArgoCD has a setting for namespace also
 - Security etc; haven't looked at that yet
 
 Useful command :
